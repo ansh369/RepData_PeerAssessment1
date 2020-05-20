@@ -1,5 +1,5 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: "Reproducible Research :Peer Assessment 1"
 output: 
   html_document:
    keep_md: true
@@ -8,7 +8,7 @@ output:
 
 ## Loading and preprocessing the data
 
-Unzip data to obtain a csv file.
+Unzip data to obtain a csv file
 
 
 ```r
